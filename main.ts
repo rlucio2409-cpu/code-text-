@@ -138,3 +138,4 @@ let mySprite = sprites.create(img`
     . f f f c c f d d b b d c . . . 
     . . . . . . b b b b f c . . . . 
     `, SpriteKind.Player)
+music.play(pianoRoll.createSong(hex`00780004080200`), music.PlaybackMode.UntilDone)

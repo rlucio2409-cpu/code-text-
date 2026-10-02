@@ -136,4 +136,4 @@ f b c c c d d f f b b b b d f .
 f f b b c c f b d d b d d c . . 
 . f f f c c f d d b b d c . . . 
 . . . . . . b b b b f c . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="#2QFA!D^t?W^Ny^e`pC6"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="#2QFA!D^t?W^Ny^e`pC6"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="music_playable_play" id="jzYMq-,dNPRbx$(v-4^|"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="arcade_piano_roll_create_song" id="HbJD*wjh-!$fagaeHXhz"><field name="song">hex`00780004080200`</field><data>{"commentRefs":[],"fieldData":{"song":null}}</data></shadow></value></block></next></block></next></block></statement></block></xml>
